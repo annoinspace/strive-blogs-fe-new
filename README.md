@@ -1,4 +1,4 @@
 # EPICODE BLOG TEMPLATE
 
-- Updated to Reac18
+- Updated to React18
 - Changes quill to draftjs
